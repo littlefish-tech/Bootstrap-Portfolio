@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("Images/cloth.png");
+}
+
+.containerheader {
+    margin-left: 260px;
+    margin-right: 260px;
+}
+
+li {
+    float: right;
+}
