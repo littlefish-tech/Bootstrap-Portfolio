@@ -1,12 +1,43 @@
-.jumbotron {
-    background-image: url("Images/cloth.png");
-}
+
 
 .containerheader {
+    width: 960px;
     margin-left: 260px;
     margin-right: 260px;
 }
 
-li {
+/* ul {
+    margin-left: 650px;
+} */
+
+.container {
+    /* background-image: url("Images/cloth.png") */
+
+}
+
+.card {
+    margin-left: 260px;
+    margin-right: 260px;
+}
+.footercontainer {
+    background-color: green;
+    text-align: center;
+}
+footer {
+    font-family: "Georgia", Times, Times New Roman, serif;
+    border-top: 8px solid #4aaaa5;
+    margin-left: 5px;
+    background-color: #666666;
+    height: 30px;
+    text-align: center;
+}
+。navbar-brand {
+    float: left;
+}
+.nav-link {
     float: right;
+}
+
+body {
+    background-image: url("Images/cloth.png")
 }
