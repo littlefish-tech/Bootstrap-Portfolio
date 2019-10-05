@@ -1,25 +1,46 @@
 
 
-.containerheader {
-    width: 960px;
-    margin-left: 260px;
-    margin-right: 260px;
+.headercontainer {
+    /* margin-left: 200px;
+    margin-right: 200px; */
+    background-color: white;
 }
-
-/* ul {
-    margin-left: 650px;
+/* .name{
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family: "Georgia", Times, Times New Roman, serif;
 } */
 
-.container {
-    /* background-image: url("Images/cloth.png") */
-
+#nameText {
+    color: white;
+    font-size: 25px;
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family: "Georgia", Times, Times New Roman, serif;
 }
 
-.card {
-    margin-left: 260px;
-    margin-right: 260px;
+/* ul { */
+    /* float: right; */
+    /* overflow: hidden;
+    list-style-type: none;
+    text-align: center; */
+/* } */
+/* li {
+    float: right;
+}*/
+
+.bodycontainer {
+    background-image: url(Images/cloth.png);  
+    background-repeat: repeat;
+    margin-left: 5px;
+    border: 1px solid #cccccc
 }
-.footercontainer {
+
+#card-image {
+    width: 200px;
+    height: 200px;
+}
+/* .footercontainer {
     background-color: green;
     text-align: center;
 }
@@ -31,13 +52,62 @@ footer {
     height: 30px;
     text-align: center;
 }
-。navbar-brand {
+。navbar-item {
+    text-align: center;
+} */
+/* .nav-link {
+    float: right;
+} */
+
+/* body {
+    background-image: url("Images/cloth.png")
+} */
+/* 
+.card-img {
     float: left;
 }
-.nav-link {
-    float: right;
+.clearfix {
+    overflow: auto;
 }
 
-body {
-    background-image: url("Images/cloth.png")
+.card-body {
+    /* overflow: auto; */
+    /* float: right;
+    clear: auto;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-text {
+    margin-left: 5px; 
+} */
+/* .nav-item {
+    margin-right: 0px; */
+/* } */
+/* .nav.bar {
+    float: right;
+} */
+.portfoliocontainer {
+    background-color: white;
+}
+
+.image-text {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    background-color: green;
+    width: 100%;
+    text-align: center;
+}
+.card-img-overlay {
+    position: absolute;
+    top: 75%;
+    padding: 0px;
+    
+}
+.card-img {
+    width: 100%;
+    height: 200px;
 }
