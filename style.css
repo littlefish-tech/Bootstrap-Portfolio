@@ -64,3 +64,13 @@
     border-top: 8px solid #4aaaa5;
 }
 
+.nav-link {
+    color: #777777;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+@media screen and (max-width: 640px) {
+    .navbar-nav {
+        width: 100%;
+    }
+}
