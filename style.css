@@ -1,22 +1,19 @@
 
 
-.headercontainer {
-    /* margin-left: 200px;
-    margin-right: 200px; */
-    background-color: white;
-}
 /* .name{
     background-color: #4aaaa5;
     text-align: center;
     font-family: "Georgia", Times, Times New Roman, serif;
 } */
 
-#nameText {
+.nameText {
     color: white;
     font-size: 25px;
     background-color: #4aaaa5;
     text-align: center;
     font-family: "Georgia", Times, Times New Roman, serif;
+    padding: 10px;
+    margin-bottom: 0px;
 }
 
 /* ul { */
@@ -40,56 +37,7 @@
     width: 200px;
     height: 200px;
 }
-/* .footercontainer {
-    background-color: green;
-    text-align: center;
-}
-footer {
-    font-family: "Georgia", Times, Times New Roman, serif;
-    border-top: 8px solid #4aaaa5;
-    margin-left: 5px;
-    background-color: #666666;
-    height: 30px;
-    text-align: center;
-}
-。navbar-item {
-    text-align: center;
-} */
-/* .nav-link {
-    float: right;
-} */
 
-/* body {
-    background-image: url("Images/cloth.png")
-} */
-/* 
-.card-img {
-    float: left;
-}
-.clearfix {
-    overflow: auto;
-}
-
-.card-body {
-    /* overflow: auto; */
-    /* float: right;
-    clear: auto;
-}
-
-hr {
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-.card-text {
-    margin-left: 5px; 
-} */
-/* .nav-item {
-    margin-right: 0px; */
-/* } */
-/* .nav.bar {
-    float: right;
-} */
 .portfoliocontainer {
     background-color: white;
 }
@@ -97,7 +45,7 @@ hr {
 .image-text {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     color: white;
-    background-color: green;
+    background-color: #4aaaa5;
     width: 100%;
     text-align: center;
 }
@@ -111,3 +59,8 @@ hr {
     width: 100%;
     height: 200px;
 }
+.card-footer {
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+}
+
