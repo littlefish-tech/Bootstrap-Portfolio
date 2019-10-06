@@ -76,6 +76,13 @@
     margin-left: auto;
 }
 
+.bodyHeaderText {
+    color: #4aaaa5;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    margin: 15px;
+    
+}
+
 @media screen and (max-width: 640px) {
     .nameText {
         width: 100%;
