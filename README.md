@@ -20,7 +20,7 @@
    <div class="card-img-overlay">
     ```
 
-## Technologs I use when creating this website:
+## Technology I use when creating this website:
 
 1. HTML
 2. Bootstrap
